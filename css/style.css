@@ -21,3 +21,8 @@ h1{
 .section{
   border: lightseagreen 1px solid;
 }
+
+img{
+  width: 100px;
+  height:100px
+}
