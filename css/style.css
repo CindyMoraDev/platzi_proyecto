@@ -2,6 +2,7 @@ body{
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   color:lightblue;
+  background-color: turquoise;
 }
 
 p{
@@ -20,6 +21,7 @@ h1{
 
 .section{
   border: lightseagreen 1px solid;
+  background-color: #fff;
 }
 
 img{
